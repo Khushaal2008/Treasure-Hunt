@@ -25,6 +25,8 @@ function draw() {
   textSize(20);
   fill("white");
   text("Score: " + score, 450, 50);
+ fill("red")
+  text("Please write everything in small letters And also write the correct answer otherwise it won't except",100,500)
 // add code for changing the background to the treasure background
   
 
